@@ -1,6 +1,6 @@
 <!-- ============================================================
-  SETUP: replace every  YOUR_USERNAME  with your GitHub username.
-  Put this file as README.md in the repo  YOUR_USERNAME/YOUR_USERNAME
+  SETUP: replace every  KmShoyab  with your GitHub username.
+  Put this file as README.md in the repo  KmShoyab/KmShoyab
   and upload the  assets/  folder next to it.
 ============================================================= -->
 
@@ -8,7 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,50:7B2FF7,100:FF00E5&height=260&section=header&text=KM%20SHOYABUR%20RAHMAN&fontSize=54&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=%E2%9A%A1%20Lead%20Developer%20%E2%80%A2%20Doddot%20%E2%9A%A1&descSize=22&descAlignY=66&stroke=00F5FF&strokeWidth=1" width="100%" alt="header" />
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/KmShoyab">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&multiline=false&width=900&height=60&lines=%3E+INITIALIZING+DEVELOPER+IDENTITY...;%3E+LOADING+MODULES%3A+Python+%7C+C+%7C+C%2B%2B+%7C+Java+%7C+JS...;%3E+I+BUILD+THINGS+THAT+FEEL+LIKE+THE+FUTURE;%3E+FROM+ASSEMBLY+TO+ABSTRACTION+%E2%80%94+I+SPEAK+ALL+LAYERS;%3E+STATUS%3A+ONLINE+%F0%9F%9F%A2+READY+TO+SHIP" alt="Typing animation" />
 </a>
 
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=0D1117&logo=statuspage&logoColor=39FF14" />
 <img src="https://img.shields.io/badge/ROLE-LEAD%20DEVELOPER-00F5FF?style=for-the-badge&labelColor=0D1117&logo=gnometerminal&logoColor=00F5FF" />
 <img src="https://img.shields.io/badge/@-DODDOT-FF00E5?style=for-the-badge&labelColor=0D1117&logo=rocket&logoColor=FF00E5" />
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=VISITORS&color=7B2FF7&style=for-the-badge&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=KmShoyab&label=VISITORS&color=7B2FF7&style=for-the-badge&labelColor=0D1117" />
 
 <img src="./assets/divider.svg" width="100%" />
 
@@ -142,16 +142,16 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E5&text_color=C9D1D9&ring_color=7B2FF7&include_all_commits=true&count_private=true&card_width=420" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=8&card_width=420" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KmShoyab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E5&text_color=C9D1D9&ring_color=7B2FF7&include_all_commits=true&count_private=true&card_width=420" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KmShoyab&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=8&card_width=420" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=7B2FF7&fire=FF00E5&currStreakLabel=00F5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+<img src="https://streak-stats.demolab.com?user=KmShoyab&hide_border=true&background=0D1117&ring=7B2FF7&fire=FF00E5&currStreakLabel=00F5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=KmShoyab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 
 </div>
 
@@ -159,7 +159,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00F5FF&line=7B2FF7&point=FF00E5&area=true&area_color=7B2FF7&hide_border=true&radius=12" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KmShoyab&bg_color=0D1117&color=00F5FF&line=7B2FF7&point=FF00E5&area=true&area_color=7B2FF7&hide_border=true&radius=12" width="100%" />
 
 
 </div>
@@ -170,22 +170,22 @@
 
 <h2 align="center">⟦ 07 · FEATURED MODULES ⟧</h2>
 
-<p align="center"><i>Replace <code>REPO_NAME_1</code> / <code>REPO_NAME_2</code> with your best repositories.</i></p>
+<p align="center"><i>Replace <code>StudyBuddy</code> / <code>REPO_NAME_2</code> with your best repositories.</i></p>
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/REPO_NAME_1">
-<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E5&text_color=C9D1D9" />
+<a href="https://github.com/KmShoyab/StudyBuddy">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=KmShoyab&repo=StudyBuddy&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E5&text_color=C9D1D9" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/REPO_NAME_2">
-<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&hide_border=true&bg_color=0D1117&title_color=FF00E5&icon_color=00F5FF&text_color=C9D1D9" />
+<a href="https://github.com/KmShoyab/REPO_NAME_2">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=KmShoyab&repo=REPO_NAME_2&hide_border=true&bg_color=0D1117&title_color=FF00E5&icon_color=00F5FF&text_color=C9D1D9" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/REPO_NAME_3">
-<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_3&hide_border=true&bg_color=0D1117&title_color=7B2FF7&icon_color=39FF14&text_color=C9D1D9" />
+<a href="https://github.com/KmShoyab/REPO_NAME_3">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=KmShoyab&repo=REPO_NAME_3&hide_border=true&bg_color=0D1117&title_color=7B2FF7&icon_color=39FF14&text_color=C9D1D9" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/REPO_NAME_4">
-<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_4&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=7B2FF7&text_color=C9D1D9" />
+<a href="https://github.com/KmShoyab/leetcode-solutions">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=KmShoyab&repo=leetcode-solutions&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=7B2FF7&text_color=C9D1D9" />
 </a>
 
 </div>
@@ -219,10 +219,10 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-FOLLOW-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0D1117&color=00F5FF" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=7B2FF7&labelColor=0D1117&color=7B2FF7" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-TRANSMIT-0D1117?style=for-the-badge&logo=gmail&logoColor=FF00E5&labelColor=0D1117&color=FF00E5" /></a>
-<a href="https://YOUR_WEBSITE.com"><img src="https://img.shields.io/badge/Portfolio-ENTER-0D1117?style=for-the-badge&logo=googlechrome&logoColor=39FF14&labelColor=0D1117&color=39FF14" /></a>
+<a href="https://github.com/KmShoyab"><img src="https://img.shields.io/badge/GitHub-FOLLOW-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0D1117&color=00F5FF" /></a>
+<a href="https://www.linkedin.com/in/km-shoyab-366905243"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=7B2FF7&labelColor=0D1117&color=7B2FF7" /></a>
+<a href="mailto:kmshoyab817@gmail.com"><img src="https://img.shields.io/badge/Email-TRANSMIT-0D1117?style=for-the-badge&logo=gmail&logoColor=FF00E5&labelColor=0D1117&color=FF00E5" /></a>
+<a href="https://kmshoyab.netlify.app"><img src="https://img.shields.io/badge/Portfolio-ENTER-0D1117?style=for-the-badge&logo=googlechrome&logoColor=39FF14&labelColor=0D1117&color=39FF14" /></a>
 
 </div>
 
